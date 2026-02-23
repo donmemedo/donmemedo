@@ -6,10 +6,10 @@
 ### <div align="center">I'm Mohammad Amin Khataei, a full-time AI/BackEnd Python developer 👨‍💻 working since 2010 🚀</div>  
   
 
-- 🔭 I’m currently working on [Chabok Tejarat Asia](https://ctejarat.com/)  
+- 🔭 I’m currently working on [DarvagCloud](https://darvagcloud.com/)
   
 
-- 🌱 I’m currently learning Kubernetes ‌‌& React  
+- 🌱 I’m currently learning Kubernetes ‌‌& Next.JS  
   
 
 - ❓ Ask me about anything related to AI and related technologies  

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgurl.ir/uploads/i43169_Photo_from_Mohammad_Amin_Khataei.jpg" align="center" style="width: 100%" />
+<img src="https://lh3.googleusercontent.com/d/153qShFD-zbnwEfgltMjqs7Nx1u5bpiil" alt="Mohammad Amin Khataei" align="center" style="width: 100%" />
 </div>  
   
 
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [DarvagCloud](https://darvagcloud.com/)
   
 
-- 🌱 I’m currently learning Kubernetes ‌‌& Next.JS  
+- 🌱 I’m currently learning Kubernetes & Next.JS  
   
 
 - ❓ Ask me about anything related to AI and related technologies  
@@ -40,9 +40,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 
@@ -110,9 +108,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
 <br/>  
 
   
@@ -120,14 +115,12 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=donmemedo&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=donmemedo&&style=flat-square" align="center" alt="Profile views" />
 </div>  
   
 
 <br/>  
 
-<div align="center"></div>
 <br />
 
 ----
-
